@@ -25,7 +25,7 @@ This is the portfolio website of Satyam Kumar, a web developer and UI/UX designe
 ## How to Use
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Manik2188/Portfolio.git
 
 2. Open the index.html file in your browser to view the website.
 
